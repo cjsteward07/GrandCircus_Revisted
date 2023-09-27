@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 1.6 - Dividing Integers", "Exercise 1.6 - Dividing Integers.csproj", "{068AA509-E9C3-4C05-972E-17B612CFF124}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 1 - Echo String", "Exercise 1 - Echo String.csproj", "{3E3337D7-1CE0-4A47-8478-A60ACEA8C8BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{068AA509-E9C3-4C05-972E-17B612CFF124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{068AA509-E9C3-4C05-972E-17B612CFF124}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{068AA509-E9C3-4C05-972E-17B612CFF124}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{068AA509-E9C3-4C05-972E-17B612CFF124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3337D7-1CE0-4A47-8478-A60ACEA8C8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3337D7-1CE0-4A47-8478-A60ACEA8C8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3337D7-1CE0-4A47-8478-A60ACEA8C8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3337D7-1CE0-4A47-8478-A60ACEA8C8BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {50DD80F6-8AD3-4E24-83B4-906AB7DEC550}
+		SolutionGuid = {38DA8153-DFF7-4092-B77E-E018F9CAD7F6}
 	EndGlobalSection
 EndGlobal

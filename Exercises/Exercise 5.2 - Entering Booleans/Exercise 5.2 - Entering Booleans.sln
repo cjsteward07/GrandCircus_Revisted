@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 1.5 - Multiplying Floats", "Exercise 1.5 - Multiplying Floats.csproj", "{A787751A-C18B-46A3-8110-D6284CF58161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 5.2 - Entering Booleans", "Exercise 5.2 - Entering Booleans.csproj", "{8E1FDE33-3A64-4063-A58D-8F753E70E50B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A787751A-C18B-46A3-8110-D6284CF58161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A787751A-C18B-46A3-8110-D6284CF58161}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A787751A-C18B-46A3-8110-D6284CF58161}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A787751A-C18B-46A3-8110-D6284CF58161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1FDE33-3A64-4063-A58D-8F753E70E50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1FDE33-3A64-4063-A58D-8F753E70E50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1FDE33-3A64-4063-A58D-8F753E70E50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1FDE33-3A64-4063-A58D-8F753E70E50B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9F6BBE2C-9A41-466E-A735-1C26B995C37A}
+		SolutionGuid = {462B5A60-631E-43E6-8879-CD3F09476FF6}
 	EndGlobalSection
 EndGlobal
