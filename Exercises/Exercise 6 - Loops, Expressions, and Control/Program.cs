@@ -12,3 +12,5 @@ do
     userInput = Console.ReadLine();
 
 } while (userInput == "Yes" || userInput == "yes" || userInput == "Y" || userInput == "y");
+
+Console.WriteLine("Goodbye!");
