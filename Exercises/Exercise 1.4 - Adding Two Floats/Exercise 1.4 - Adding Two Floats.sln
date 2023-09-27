@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 1.4 - Adding Two Floats", "Exercise 1.4 - Adding Two Floats.csproj", "{CCBB61E0-EBB7-4F7E-BFC7-41510710360C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBB61E0-EBB7-4F7E-BFC7-41510710360C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBB61E0-EBB7-4F7E-BFC7-41510710360C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBB61E0-EBB7-4F7E-BFC7-41510710360C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBB61E0-EBB7-4F7E-BFC7-41510710360C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F517F3FF-FD06-4656-BDF0-8EEBBD766FB5}
+	EndGlobalSection
+EndGlobal
